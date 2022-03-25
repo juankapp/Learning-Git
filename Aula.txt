@@ -1,0 +1,5 @@
+Git init = iniciar repositorio git	
+Git add . = adicionar todos os arquivos em modo staged
+Git commit -m 'sua mensagem' = Comitar os arquivos que estão em modo staged 
+git remote add origin 'caminho do seu repositorio' = se conectar com seu repositorio 
+git push = Subir os commits para o Repositorio
