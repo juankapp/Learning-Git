@@ -3,3 +3,14 @@ Git add . = adicionar todos os arquivos em modo staged
 Git commit -m 'sua mensagem' = Comitar os arquivos que estão em modo staged 
 git remote add origin 'caminho do seu repositorio' = se conectar com seu repositorio 
 git push = Subir os commits para o Repositorio
+
+Branches - Branches são ramificações do seu repositorio
+git branch <nome da branch> - Cria uma branch
+git branch - lista todas das branches
+git checkout <nome da branch> - muda da sua branch para a branch selecionada
+git checkout -b <nome da branch> - cria uma branch e ja muda automaticamente para ela
+git push -u origin <nome da branch> - isso mostra para o servidor para subir as atualizacoes e entender que é para criar um branch la, com esse nome e são as mesma branches
+git branch -d <nome da branch> - Esse comando destroy uma branch  local
+git branch -D <nome da branch> - Esse comando força o git a excluir a branch local passando por cima de qualquer validação
+git push --delete origin <nome da Branch> - Esse comando exclui a branch do servidor
+git branch -m <nome da branch que quer renomear> <novo nome> - Esse comando muda o nome da branch
