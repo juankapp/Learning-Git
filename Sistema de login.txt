@@ -1,2 +1,5 @@
 login :
 senha :
+
+entrar
+esqueci minha senha
