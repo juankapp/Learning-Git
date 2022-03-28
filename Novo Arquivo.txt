@@ -1,5 +1,0 @@
-Outra linha da main
-
-Mais uma linha da main
-Editando pelo proprio github
-Linha escrita na branch master
