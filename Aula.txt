@@ -14,3 +14,9 @@ git branch -d <nome da branch> - Esse comando destroy uma branch  local
 git branch -D <nome da branch> - Esse comando força o git a excluir a branch local passando por cima de qualquer validação
 git push --delete origin <nome da Branch> - Esse comando exclui a branch do servidor
 git branch -m <nome da branch que quer renomear> <novo nome> - Esse comando muda o nome da branch
+
+
+git reflog = Exibe as versoes antigas da sua aplicacao
+git reset --hard <id do commit> = Navega para a versao do id selecionado
+
+git pull = puxa a versao mais recente do servidor para sua maquina
