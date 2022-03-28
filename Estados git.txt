@@ -1,0 +1,5 @@
+Git status = ver os estados do git 
+
+Modo Untracked  = inrrastreavel, esta na pasta porem não esta versionado
+Modo Staged = Arquivos foram adicionados porem não foram commitados
+Modo commitado - Arquivos ja foram comitados 
